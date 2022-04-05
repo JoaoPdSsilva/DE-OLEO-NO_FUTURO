@@ -8,7 +8,7 @@
 * [Estudo de Caso](#Estudo-de-Caso)
 * [Experimento](#Experimento)
 * [Resultados Esperados](#Resultados-Esperados)
-* [Referências](#[eferências)
+* [Referências](#Referências)
 
 
 # DE OLEO NO FUTURO
