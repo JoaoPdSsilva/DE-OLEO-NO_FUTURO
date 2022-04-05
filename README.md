@@ -26,14 +26,14 @@ De Óleo no Futuro - Sistema de Agendamento de Coleta de Óleo
 ### No-code
  O No-code (em português “sem código”) é uma forma de desenvolvimento de aplicativos onde não é necessário usar códigos, teste, entre outros processos da programação convencional. Ou seja, ele facilita e agiliza o desenvolvimento de softwares. Ele se torna mais útil, posto que o criador do aplicativo não precisa necessariamente ser um desenvolvedor com conhecimentos usuais de programação.
  #### Adalo
- O Adalo é uma plataforma de desenvolvimento no-code que torna a criação de aplicativos mais simples. Foi fundada por David Adkin e Ben Haefele, em 2018, com o intuito de trazer as ideias de milhões de pessoas para a vida real sem a necessidade da habilidade técnica de codificação. [1]  
+ O Adalo é uma plataforma de desenvolvimento no-code que torna a criação de aplicativos mais simples. Foi fundada por David Adkin e Ben Haefele, em 2018, com o intuito de trazer as ideias de milhões de pessoas para a vida real sem a necessidade da habilidade técnica de codificação. [1](#[1]-ADALO)  
 
 
 ## Resumo
 Em uma era digital, a tecnologia tem sido grande aliada na resolução de questões socioambientais. Pensando nisso, o De Óleo no Futuro é uma ferramenta que visa sistematizar o processo de coleta de óleo de cozinha usado, incentivando sua reciclagem e promovendo maior eficácia no procedimento de recolhimento. Para tal, foi utilizado no desenvolvimento a plataforma Adalo, uma tecnologia no-code capaz de atender às necessidades do projeto. A proposta é alinhar a tecnologia com questões sustentáveis, a fim de garantir um futuro limpo para o planeta.  
 
 # Introdução
-O óleo de cozinha após seu uso e descarte inadequado se torna um produto que pode causar grandes transtornos ao meio ambiente. Seus destinos mais comuns são: redes de esgotos, solo, corpos hídricos e aterros sanitários. Todos esses indevidos para o descarte. Além de causar impermeabilização do solo e poluir os rios, quando no esgoto, ele adere às paredes das tubulações, obstruindo as galerias fluviais e ocasionando enchentes.[2]
+O óleo de cozinha após seu uso e descarte inadequado se torna um produto que pode causar grandes transtornos ao meio ambiente. Seus destinos mais comuns são: redes de esgotos, solo, corpos hídricos e aterros sanitários. Todos esses indevidos para o descarte. Além de causar impermeabilização do solo e poluir os rios, quando no esgoto, ele adere às paredes das tubulações, obstruindo as galerias fluviais e ocasionando enchentes.[2](#[2]-O.-S.-R.-P.-Junior)
 	Diante os fatos expostos surge a problemática: como a tecnologia pode contribuir para o recolhimento em grande escala do óleo de cozinha descartado de forma incorreta?
 	Com base nisso, o presente Trabalho de Conclusão de Curso busca solucionar como as pessoas realizam esse descarte, tendo como chave a criação de um sistema onde seja possível realizar o agendamento do processo de coleta de óleo, tanto por parte do usuário através uma requisição, quanto por parte da empresa realizando coletas agendadas; a fim de que sua reciclagem possa torná-lo matéria-prima para a produção de biodiesel, promovendo, assim, a sustentabilidade.
 
@@ -44,7 +44,7 @@ O óleo de cozinha após seu uso e descarte inadequado se torna um produto que p
   
   ![image](https://user-images.githubusercontent.com/60629168/161674089-fedaa20a-f253-4104-8412-78ea0446a71d.png)
   
-  Dados fornecidos pela Sabesp estimam que apenas 1 litro de óleo descartado no esgoto tem capacidade para poluir cerca de 1 milhão de litros de água. Isto é equivalente a quantidade consumida por uma pessoa em 14 anos. [3] Quando despejado no esgoto, o óleo também adere às paredes das tubulações, onde se acumula e pode causar refluxos de esgoto e entupimento nas redes de coleta.
+  Dados fornecidos pela Sabesp estimam que apenas 1 litro de óleo descartado no esgoto tem capacidade para poluir cerca de 1 milhão de litros de água. Isto é equivalente a quantidade consumida por uma pessoa em 14 anos. [3](#[3]-SABESP.) Quando despejado no esgoto, o óleo também adere às paredes das tubulações, onde se acumula e pode causar refluxos de esgoto e entupimento nas redes de coleta.
  
  Diante os fatos expostos, fica evidente que apenas uma pequena parcela realizando o descarte inadequado já é capaz de provocar grandes transtornos ao meio-ambiente. Dessa forma surge a questão: como a tecnologia pode contribuir para o recolhimento do óleo de cozinha descartado de forma incorreta?
  
@@ -53,7 +53,7 @@ O óleo de cozinha após seu uso e descarte inadequado se torna um produto que p
   ![image](https://user-images.githubusercontent.com/60629168/161674502-5e5ec8c1-76a4-48e1-86f2-908b8a73421c.png)
   
   ### Canva
-  O Método Canvas é uma ferramenta de planejamento estratégico que permite desenvolver e esboçar modelos de negócio novos ou existentes. Se trata de uma solução bastante eficiente que ajuda o empreendedor a visualizar melhor as questões estratégicas do seu negócio. [4]
+  O Método Canvas é uma ferramenta de planejamento estratégico que permite desenvolver e esboçar modelos de negócio novos ou existentes. Se trata de uma solução bastante eficiente que ajuda o empreendedor a visualizar melhor as questões estratégicas do seu negócio. [4](#[4]-GONÇALVES)
   
   ![image](https://user-images.githubusercontent.com/60629168/161676408-3c5dc711-061d-48aa-9440-1b68ea76edcb.png)
   
@@ -62,7 +62,7 @@ O óleo de cozinha após seu uso e descarte inadequado se torna um produto que p
 ## Experimento
 ### O Projeto Óleo Amigo 
 O descarte inadequado do óleo de cozinha após seu uso faz com que ele se torne um problema para o meu ambiente. Pensando em solucionar esse entrave, a empresa JBS Ambiental tem como inciativa o programa de coleta de óleo de cozinha usado, conhecido como “Óleo Amigo”; que atua de forma efetiva reduzindo os impactos deste produto na natureza e conscientizando a população.
-O programa conta com equipe e transportes adequados para a coleta dos resíduos, que após recolhidos são direcionados para a JBS Biodiesel, onde passa por um processo de transformação em biodiesel, garantindo a reciclagem apropriada do produto. [5]
+O programa conta com equipe e transportes adequados para a coleta dos resíduos, que após recolhidos são direcionados para a JBS Biodiesel, onde passa por um processo de transformação em biodiesel, garantindo a reciclagem apropriada do produto. [5](#[5]-ÓLEO-AMIGO.)
 
 
 ### Mapa de navegação
