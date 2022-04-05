@@ -11,6 +11,13 @@
 * [Resultados Esperados](#Resultados-Esperados)
 * [Referências](#Referências)
 
+### Quem fez parte desse TCC
+- [Bruno Hideki Sato Misufara](https://github.com/Kaneki515)
+- [Henrique Pinto Ferreira](https://github.com/Dr-Henrique7)
+- [João Pedro dos Santos Silva](https://github.com/JoaoPdSsilva)
+- [Julio Cesar Carrillo de Oliveira](https://github.com/JulioCesar657)
+
+
 
 # DE OLEO NO FUTURO
 De Óleo no Futuro - Sistema de Agendamento de Coleta de Óleo
