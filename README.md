@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/60629168/161673434-24d71660-b1fe-42e5-a3d3-6e291d6804bd.png" height="250px" width="250px"></img>
+<img src="https://user-images.githubusercontent.com/60629168/161673434-24d71660-b1fe-42e5-a3d3-6e291d6804bd.png" height="30%" width="30%"></img>
+<img src="https://user-images.githubusercontent.com/60629168/161679699-6c7481e8-7c99-4807-8700-22f17d88fdbb.png" height="30%" width="30%"></img>
 
 ## Índice 
 * [DE OLEO NO FUTURO](#DE-OLEO-NO-FUTURO)
