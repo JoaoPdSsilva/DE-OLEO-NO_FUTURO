@@ -8,7 +8,7 @@
 * [Estudo de Caso](#Estudo-de-Caso)
 * [Experimento](#Experimento)
 * [Resultados Esperados](#Resultados-Esperados)
-* [Referências](#[Referências])
+* [Referências](#[eferências)
 
 
 # DE OLEO NO FUTURO
@@ -71,7 +71,7 @@ Deste modo, o projeto também promove a sustentabilidade, contribuindo diretamen
 Alinhar a tecnologia ao meio ambiente é uma missão fundamental para que possamos garantir um futuro seguro e saudável para as próximas gerações.
 
 
-**# [Referências]**
+# Referências
 
 [1] ADALO. Sobre o Adalo. Disponível em < https://www.adalo.com/about-us > Acesso em: 7 jun. 2021.
 
