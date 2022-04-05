@@ -26,7 +26,7 @@ De Óleo no Futuro - Sistema de Agendamento de Coleta de Óleo
 ### No-code
  O No-code (em português “sem código”) é uma forma de desenvolvimento de aplicativos onde não é necessário usar códigos, teste, entre outros processos da programação convencional. Ou seja, ele facilita e agiliza o desenvolvimento de softwares. Ele se torna mais útil, posto que o criador do aplicativo não precisa necessariamente ser um desenvolvedor com conhecimentos usuais de programação.
  #### Adalo
- O Adalo é uma plataforma de desenvolvimento no-code que torna a criação de aplicativos mais simples. Foi fundada por David Adkin e Ben Haefele, em 2018, com o intuito de trazer as ideias de milhões de pessoas para a vida real sem a necessidade da habilidade técnica de codificação. [1](#[1]-ADALO)  
+ O Adalo é uma plataforma de desenvolvimento no-code que torna a criação de aplicativos mais simples. Foi fundada por David Adkin e Ben Haefele, em 2018, com o intuito de trazer as ideias de milhões de pessoas para a vida real sem a necessidade da habilidade técnica de codificação. [1](#1-ADALO)  
 
 
 ## Resumo
